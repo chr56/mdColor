@@ -1,6 +1,7 @@
 plugins {
     id("com.android.library")
     id("maven-publish")
+    id("org.jetbrains.kotlin.android")
 }
 val libVersion = "0.0.1"
 
