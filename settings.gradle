@@ -12,6 +12,7 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "mdColor"
+rootProject.buildFileName = "build.gradle.kts"
 
 
 include(":mdColor")
