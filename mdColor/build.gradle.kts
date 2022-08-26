@@ -54,6 +54,7 @@ android {
 }
 
 dependencies {
+    implementation(project(":mdColorRes"))
     implementation("androidx.annotation:annotation:1.3.0")
     compileOnly("androidx.appcompat:appcompat:1.3.1")
 }
