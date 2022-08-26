@@ -54,7 +54,7 @@ android {
 
 dependencies {
     implementation("androidx.annotation:annotation:1.3.0")
-    implementation("androidx.appcompat:appcompat:1.4.1")
+    compileOnly("androidx.appcompat:appcompat:1.3.1")
 }
 
 publishing {
